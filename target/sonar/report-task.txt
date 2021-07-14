@@ -1,0 +1,7 @@
+organization=felphex
+projectKey=felphex_ProyectoJavaMaven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=felphex_ProyectoJavaMaven
+ceTaskId=AXqizTZolG1PxIkOE06y
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqizTZolG1PxIkOE06y
